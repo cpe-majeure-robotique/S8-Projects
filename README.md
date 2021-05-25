@@ -1,7 +1,5 @@
 # Déroulement du projet
 
-![GitLab Board](https://raw.githubusercontent.com/cpe-majeure-robotique/S9-Project-19-20/master/images/GitLab_Board.png)
-
 - 27/05 : 
   - Appropriation du sujet / Lecture / Recherches
   - Hello World
@@ -76,6 +74,6 @@
 
 |N| Sujets                                 | Nb groupes | Pers. par grp |   Salle  |  PC  |
 |-| -------------------------------------- | ---------- | ------------- | -------- | ---- |
-|1| [Présentation de la physique des robots avec Pepper]()                                  |     8      |       2/3     | B120 ou arène robotique |  TP  |
-|2| [SAT avec de l'embarqué et un volant !]()                                               |     2      |       2/3     | B120     |  TP   |
+|1| [Présentation de la physique des robots avec Pepper](https://github.com/cpe-majeure-robotique/S8-Projects/blob/main/Sujet1%20-%20Pepper.md)                                  |     8      |       2/3     | B120 ou arène robotique |  TP  |
+|2| [SAT avec de l'embarqué et un volant !](https://github.com/cpe-majeure-robotique/S8-Projects/blob/main/Sujet2%20-%20SAT+.md)                                               |     2      |       2/3     | B120     |  TP   |
 
