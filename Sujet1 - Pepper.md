@@ -9,3 +9,5 @@ Créer une application ( avec interaction) utilisant le vocal et la tablette qui
     - Gravité
     
 L'interaction avec l'humain devra être gamifiée et ludique !
+
+Vous êtes libre d'y ajouter (pas remplacer) d'autres intéractions plus funs sur d'autres sujets
