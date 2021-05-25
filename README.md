@@ -5,11 +5,11 @@
   - Hello World
   - Premier commit **obligatoire** à pousser sur GitLab
 
-- 02/06 : Rendu intermédiaire sous forme de **[Tag](https://docs.gitlab.com/ee/university/training/topics/tags.html)** avant 18h
+- 02/06 : Rendu intermédiaire sous forme de **[Tag](https://docs.gitlab.com/ee/university/training/topics/tags.html)** avant 18h (sans vidéo ni powerpoint)
 
-- 09/06 : Soutenances. Fin des commit sur GitLab à 18h (**fin des rendus**) et livraison sous forme de **Tag** (sans vidéo, sans PPT)
+- 09/06 : Soutenances. Fin des commit sur GitLab à 18h (**fin des rendus**) et livraison sous forme de **Tag**
 
-- 10/06 : Travail complémentaire si exigé par les profs :
+- 11/06 : Travail complémentaire si exigé par les profs :
   - Fin des commits sur GitLab à 23h59 (**fin des rendus**) et livraison sous forme de **Tag**
 
 
