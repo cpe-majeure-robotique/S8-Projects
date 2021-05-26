@@ -12,11 +12,12 @@ PS : 1 et 2 peuvent être fait indépendament
 
 ## Mise en route
 
-- Téléchargez l'archive [du projet]()
+- [Téléchargez l'archive du projet](https://github.com/cpe-majeure-robotique/S8-Projects/raw/main/ressources/maquettes-sat-student_ver.zip)
 - Dezippez là dans `~/STM32CubeIDE/workspace_1.5.1`
-- Avec le navigateur de fichier, entrez dans le dossier dezzipé et double cliquez sur le fichier `.project` (si vous ne le voyez pas, faites Ctrl-H)
+- Avec le navigateur de fichier, entrez dans le dossier dezzipé et double cliquez sur le fichier `.project` (si fichier pas visible, faites Ctrl-H)
 - L'IDE stm32CubeIDE devrait s'ouvrir
-- Build config TODO
+- Configurez le bon Build config comme sur l'mage ci-dessous
+![build config](https://github.com/cpe-majeure-robotique/S8-Projects/blob/main/img/Build_config.png?raw=true)
 - Pour compilez faites `Project -> Build all` (ou Ctrl-B, ou raccourci sur le bandeau)
 - Pour charger le programme dans la carte :
   - Mettez la carte sous tension (bloc alim 12V)
