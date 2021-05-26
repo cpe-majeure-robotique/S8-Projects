@@ -12,6 +12,8 @@ PS : 1 et 2 peuvent être fait indépendament
 
 ## Mise en route
 
+### IDE stm32CubeIDE + chargement du code dans la maquette
+
 - [Téléchargez l'archive du projet](https://github.com/cpe-majeure-robotique/S8-Projects/raw/main/ressources/maquettes-sat-student_ver.zip)
 - Dezippez là dans `~/STM32CubeIDE/workspace_1.5.1`
 - Avec le navigateur de fichier, entrez dans le dossier dezzipé et double cliquez sur le fichier `.project` (si fichier pas visible, faites Ctrl-H)
@@ -23,3 +25,21 @@ PS : 1 et 2 peuvent être fait indépendament
   - Mettez la carte sous tension (bloc alim 12V)
   - Branchez la carte Nucléo (blanche) en USB au PC
   - dans stm32CubeIDE cliquez sur le bouton vert avec un triangle blanc (play) pour charger le programme dans la carte
+
+### BUS CAN physique
+
+- plug the USB<->CAN dongle
+- in a terminal set up a CAN bus:
+```bash
+# Replace **** with your USB dongle id
+# Configure Serial Line CAN demon 
+sudo slcand -o -s6 -t hw -S 3000000 /dev/serial/by-id/usb-Protofusion_Labs_**************** can0
+
+# Mount can0 as a network
+sudo ip link set up can0
+```
+
+### Compréhension et modification du code la maquette
+Le programme fourni permet de faire fonctionner la maquette avec son dashboard, ses commodos, ses bus CAN. Seul quelques lignes de codes ont été supprimées et ce sera à vous de les compléter dès que vous voyez une ligne avec en commentaire `TODO` : 
+![todo](img/todo.png)  
+En l'état vous pouvez déjà tester la maquette en envoyant une trame de vitesse depuis un terminal ou avec le simulateur avsim2D (à condition de rediriger vcan0 sur can0)
