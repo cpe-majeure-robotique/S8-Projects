@@ -74,6 +74,6 @@
 
 |N| Sujets                                 | Nb groupes | Pers. par grp |   Salle  |  PC  |
 |-| -------------------------------------- | ---------- | ------------- | -------- | ---- |
-|1| [Présentation de la physique des robots avec Pepper](https://github.com/cpe-majeure-robotique/S8-Projects/blob/main/Sujet1%20-%20Pepper.md)                                  |     8      |       2/3     | B120 ou arène robotique |  TP  |
-|2| [SAT avec de l'embarqué et un volant !](https://github.com/cpe-majeure-robotique/S8-Projects/blob/main/Sujet2%20-%20SAT+.md)                                               |     2      |       2/3     | B120     |  TP   |
+|1| [Présentation de la physique des robots avec Pepper](https://github.com/cpe-majeure-robotique/S8-Projects/blob/main/Sujet1%20-%20Pepper.md)                                  |     8      |       1 à 2     | B120 ou arène robotique |  TP  |
+|2| [SAT avec de l'embarqué et un volant !](https://github.com/cpe-majeure-robotique/S8-Projects/blob/main/Sujet2%20-%20SAT+.md)                                               |     2      |       1 à 2     | B120     |  TP   |
 
