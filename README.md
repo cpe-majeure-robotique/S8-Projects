@@ -2,7 +2,7 @@
 
 - 27/05 : 
   - Appropriation du sujet / Lecture / Recherches
-  - Hello World
+  - Story Board (Pepper) ou Hello World (SAT)
   - Premier commit **obligatoire** à pousser sur GitLab
 
 - 02/06 : Rendu intermédiaire sous forme de **[Tag](https://docs.gitlab.com/ee/university/training/topics/tags.html)** avant 18h (sans vidéo ni powerpoint)
