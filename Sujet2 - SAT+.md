@@ -25,6 +25,7 @@ PS : 1 et 2 peuvent être fait indépendament
   - Mettez la carte sous tension (bloc alim 12V)
   - Branchez la carte Nucléo (blanche) en USB au PC
   - dans stm32CubeIDE cliquez sur le bouton vert avec un triangle blanc (play) pour charger le programme dans la carte
+  - Une fois le programme chargé, il es possible de lancer un test de la maquette en appuyant sur le bouton noir (reset) et le bouton bleu (user) en même temps, puis en relâchant le bouton noir en premier
 
 ### BUS CAN physique
 
@@ -43,3 +44,7 @@ sudo ip link set up can0
 Le programme fourni permet de faire fonctionner la maquette avec son dashboard, ses commodos, ses bus CAN. Seul quelques lignes de codes ont été supprimées et ce sera à vous de les compléter dès que vous voyez une ligne avec en commentaire `TODO` : 
 ![todo](img/todo.png)  
 En l'état vous pouvez déjà tester la maquette en envoyant une trame de vitesse depuis un terminal ou avec le simulateur avsim2D (à condition de rediriger vcan0 sur can0)
+
+### Utilisation du volant
+- Téléchargez [ce code d'exemple](ressources/example_wheel.tar.gz) et regardez son README pour le compiler et le lancer
+- Voici [la doc du volant](ressources/dossier_technique.pdf) si besoin
