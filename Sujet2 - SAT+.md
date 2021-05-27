@@ -25,7 +25,7 @@ PS : 1 et 2 peuvent être fait indépendament
   - Mettez la carte sous tension (bloc alim 12V)
   - Branchez la carte Nucléo (blanche) en USB au PC
   - dans stm32CubeIDE cliquez sur le bouton vert avec un triangle blanc (play) pour charger le programme dans la carte
-  - Une fois le programme chargé, il es possible de lancer un test de la maquette en appuyant sur le bouton noir (reset) et le bouton bleu (user) en même temps, puis en relâchant le bouton noir en premier
+  - Une fois le programme chargé, il est possible de lancer un test de la maquette en appuyant sur le bouton noir (reset) et le bouton bleu (user) en même temps, puis en relâchant le bouton noir en premier
 
 ### BUS CAN physique
 
