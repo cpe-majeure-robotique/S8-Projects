@@ -39,6 +39,7 @@ sudo slcand -o -s6 -t hw -S 3000000 /dev/serial/by-id/usb-Protofusion_Labs_*****
 # Mount can0 as a network
 sudo ip link set up can0
 ```
+- dans le virtualenv de avsim2D, récupérez le fichier (venv_SAdT/lib/python3.6/site-packages/avsim2D/)`config.yaml` et placez le `/tmp/avsim2D/`. Modifiez les paramètres de `can_dbw` de sorte à vous connecter sur can0 avec le bon baudrate
 
 ### Compréhension et modification du code la maquette
 Le programme fourni permet de faire fonctionner la maquette avec son dashboard, ses commodos, ses bus CAN. Seul quelques lignes de codes ont été supprimées et ce sera à vous de les compléter dès que vous voyez une ligne avec en commentaire `TODO` : 
