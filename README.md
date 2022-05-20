@@ -1,16 +1,17 @@
 # Déroulement du projet
 
-- 27/05 : 
+- 23/05 : Présentation / Négociation / Choix des projets
+- 30/05 : 
   - Appropriation du sujet / Lecture / Recherches
   - Story Board (Pepper) ou Hello World (SAT)
   - Premier commit **obligatoire** à pousser sur GitLab
 
 - 02/06 : Rendu intermédiaire sous forme de **[Tag](https://docs.gitlab.com/ee/university/training/topics/tags.html)** avant 18h (sans vidéo ni powerpoint)
 
-- 09/06 : Soutenances. Fin des commit sur GitLab à 18h (**fin des rendus**) et livraison sous forme de **Tag**
+- 08/06 : Soutenances. Fin des commit sur GitLab à 18h (**fin des rendus**) et livraison sous forme de **Tag**
 
-- 11/06 : Travail complémentaire si exigé par les profs :
-  - Fin des commits sur GitLab à 23h59 (**fin des rendus**) et livraison sous forme de **Tag**
+- 09-10/06 : Travail complémentaire si exigé par les profs :
+  - Fin des commits sur GitLab le 10/05 à 23h59 (**fin des rendus**) et livraison sous forme de **Tag**
 
 
 # Rendus : 
@@ -35,9 +36,9 @@
 
 # Soutenances : 
  
-- Vos soutenances auront lieu mercredi 9 Juin de **13h30 à 17h30**. La présence de tous est obligatoire sur l’ensemble de ce créneau et l’ordre de passage sera tiré au sort ou laissé aux plus motivés. 
+- Vos soutenances auront lieu mercredi 8 Juin de **10h15 à 12h30**. La présence de tous est obligatoire sur l’ensemble de ce créneau et l’ordre de passage sera tiré au sort ou laissé aux plus motivés. 
 
-- Chaque groupe aura une base de 8mn + 3mn par nombre d’étudiants dans le groupe. Un groupe de 3 par exemple parlera donc 17mn, et ce temps sera équi-réparti soit environ 5mn40s chacun.
+- Chaque groupe aura une base de 6mn + 3mn par nombre d’étudiants dans le groupe. Un groupe de 3 par exemple parlera donc 15mn, et ce temps sera équi-réparti soit environ 5mn chacun.
 
 - Le sujet doit être présenté très rapidement pour passer ensuite à vos choix technologiques, avec les développements et problématiques associées. A la fin de la présentation, l’auditoire doit avoir une idée clair de ce qui fonctionne et ce qui ne fonctionne pas. Les problèmes rencontrés ne doivent pas monopoliser votre temps de parole.
 
@@ -74,6 +75,7 @@
 
 |N| Sujets                                 | Nb groupes | Pers. par grp |   Salle  |  PC  |
 |-| -------------------------------------- | ---------- | ------------- | -------- | ---- |
-|1| [Présentation de la physique des robots avec Pepper](https://github.com/cpe-majeure-robotique/S8-Projects/blob/main/Sujet1%20-%20Pepper.md)                                  |     4 à 6      |       2 ou 3   | B120 ou arène robotique |  TP  |
-|2| [SAT avec de l'embarqué et un volant !](https://github.com/cpe-majeure-robotique/S8-Projects/blob/main/Sujet2%20-%20SAT+.md)                                               |     2      |       2 ou 3   | B120     |  TP   |
+|1| [Présentation de la physique des robots avec Pepper](https://github.com/cpe-majeure-robotique/S8-Projects/blob/main/Sujet1%20-%20Pepper.md)   |     4 à 5      |       2 ou 3   | B127 ou B120 |  TP  |
+|2| [SAT avec de l'embarqué et un volant !](https://github.com/cpe-majeure-robotique/S8-Projects/blob/main/Sujet2%20-%20SAT+.md)              |     4 à 5      |       2 ou 3   | B120     |  TP   |
+
 
