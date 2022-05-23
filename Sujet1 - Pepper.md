@@ -3,7 +3,7 @@
 Faites ce que vous voulez avec Pepper... mais... à minima, intégrez les points suivants :
 
 - Présentation minimaliste de CPE
-- Créer une application (avec interaction) utilisant le vocal et la tablette qui présente les bases de modélisation des robots en utilisant bien sûr les bras du robot pepper comme exemple pour illustrer les différents concepts présentés :
+- Créer une application (avec interaction) utilisant le vocal et la tablette qui présente les bases de modélisation des robots en utilisant le corps du robot ou de la personne comme exemple pour illustrer les différents concepts présentés :
     - MGD / MGI
     - MCD / MCI
     - MD :
