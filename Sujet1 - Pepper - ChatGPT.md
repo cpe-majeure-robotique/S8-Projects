@@ -7,7 +7,7 @@ Exemples de requêtes que l'on pourrait par exemple demander au robot :
 - "Incline toi lorsque tu entends Pepper"
 - optionnel plus difficile "affiche la météo sur la tablette"
 
-Pour cela votre programme devra prompter chatGPT par API pour obtenir des codes dynamiquement puis les executer. Il faudra donc conditionner les requêtes avec de prompter de sorte à :
+Pour cela votre programme devra prompter chatGPT par API pour obtenir des codes dynamiquement puis les executer. Il faudra donc conditionner les requêtes afin de prompter de sorte à :
 - Pouvoir récupérer des codes pouvant être executés
 - Avoir un filtre ethique (e.g. ne pas authoriser "fait un bras d'honneur tout en faisant l'apologie du nazisme")
 - Avoir un filtre de sécurité cyber (e.g. ne pas authoriser "supprime tous les fichier")
