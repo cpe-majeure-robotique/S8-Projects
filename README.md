@@ -1,17 +1,19 @@
 # Déroulement du projet
 
-- 23/05 : Présentation / Négociation / Choix des projets
-- 30/05 : 
+- 15/05 : 
+  - Présentation / Négociation / Choix des projets
   - Appropriation du sujet / Lecture / Recherches
   - Story Board (Pepper) ou Hello World (SAT)
   - Premier commit **obligatoire** à pousser sur GitLab
 
-- 02/06 : Rendu intermédiaire sous forme de **[Tag](https://docs.gitlab.com/ee/university/training/topics/tags.html)** avant 18h (sans vidéo ni powerpoint)
+- 02/06 : [Rendu](#Rendus) intermédiaire sous forme de **[Tag](https://docs.gitlab.com/ee/user/project/repository/tags/)** avant 18h (sans vidéo ni powerpoint)
 
-- 08/06 : Soutenances. Fin des commit sur GitLab à 18h (**fin des rendus**) et livraison sous forme de **Tag**
+- 08/06 : Fin des commit sur GitLab à 23h59 (**fin des rendus**) et livraison sous forme de **Tag**
 
-- 09-10/06 : Travail complémentaire si exigé par les profs :
-  - Fin des commits sur GitLab le 10/05 à 23h59 (**fin des rendus**) et livraison sous forme de **Tag**
+- 09/06 AM : [Soutenances](#Soutenances)
+
+- 09/06 PM : Travail complémentaire si exigé par les profs :
+  - Fin des commits sur GitLab à 23h59 (**fin des rendus**) et livraison sous forme de **Tag**
 
 
 # Rendus : 
@@ -24,7 +26,8 @@
 
 - **Des vidéos**
   - Une vidéo de 30s à 1 min présentant le projet (pitch attractif)
-  - Une vidéo plus longue sous la forme d’un tutoriel vidéo, permettant la mise en œuvre de votre projet
+  - Une vidéo plus longue sous la forme d’un tutoriel vidéo, permettant la mise en œuvre de votre projet (commencer l'installer à partir de votre repo, comment le lancer, ...)
+  - Les vidéos sont a mettre sur youtube. Chaque lien doit figurer dans le README de description du projet, **sinon le rendu sera noté INCOMPLET**.
   - Pour chaque vidéo, vous ferez apparaître :
     - Le nom du projet
     - Le logo CPE
@@ -36,7 +39,7 @@
 
 # Soutenances : 
  
-- Vos soutenances auront lieu mercredi 8 Juin de **10h15 à 12h30**. La présence de tous est obligatoire sur l’ensemble de ce créneau et l’ordre de passage sera tiré au sort ou laissé aux plus motivés. 
+- Vos soutenances auront lieu vendredi 9 Juin de **8h30 à 12h**. La présence de tous est obligatoire sur l’ensemble de ce créneau et l’ordre de passage sera tiré au sort ou laissé aux plus motivés. 
 
 - Chaque groupe aura une base de 6mn + 3mn par nombre d’étudiants dans le groupe. Un groupe de 3 par exemple parlera donc 15mn, et ce temps sera équi-réparti soit environ 5mn chacun.
 
