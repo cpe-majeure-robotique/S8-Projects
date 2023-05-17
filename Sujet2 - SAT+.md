@@ -1,10 +1,10 @@
 # Sujet2 - SAT+
 
 ## En Bref !
-1. Faire le pilotage automatique de la voiture à partir de la maquette physique (même chose qu'en TP, mais depuis un STM32)
+1. Faire le pilotage automatique de la voiture à partir de la maquette physique (même code qu'en TP, mais à porter sur STM32)
 2. Piloter la voiture du simulateur avsim2D avec volant et pédales:
   - depuis un même PC avec un bus CAN virtuel
-  - puis depuis un 2ème PC au travers d'un bus CAN réel
+  - puis depuis un 2ème PC au travers d'un bus CAN réel (s'arranger avec un autre groupe si pas assez de PCs)
 3. En reprenant le programme de la partie 1, lorsque la voiture roule dans le simulateur, le volant doit tourner tout seul
 
 PS : 1 et 2 peuvent être fait indépendament
