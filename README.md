@@ -76,9 +76,9 @@
 
 # SUJETS :
 
-|N| Sujets                                 | Nb groupes | Pers. par grp |   Salle  |  PC  |
-|-| -------------------------------------- | ---------- | ------------- | -------- | ---- |
-|1| [Pepper avec chatGPT](https://github.com/cpe-majeure-robotique/S8-Projects/blob/main/Sujet1%20-%20Pepper%20-%20ChatGPT.md)   |     4 à 5      |       2 ou 3   | I102 |  TP ou portable  |
-|2| [Voiture avec volant et pilote auto](https://github.com/cpe-majeure-robotique/S8-Projects/blob/main/Sujet2%20-%20SAT+.md)              |     4 à 5      |       2 ou 3   | I102     |  TP   |
+|N| Sujets                                                            | Nb groupes | Pers. par grp |   Salle  |  PC   |
+|-| ----------------------------------------------------------------- | ---------- | ------------- | -------- | ----- |
+|1| [Escape Game robotique](sujets/Sujet1%20-%20Escape%20Game.md)     |     1 à 3  |       2 à 6   | I102     |  TP   |
+|2| [Voiture avec volant et pilote auto](sujets/Sujet2%20-%20SAT+.md) |     1 à 3  |       2 ou 3  | I102     |  TP   |
 
 
