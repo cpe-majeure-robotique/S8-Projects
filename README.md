@@ -1,16 +1,16 @@
 # Déroulement du projet
 
-- 15/05 : 
+- 04/06 : 
   - Présentation / Négociation / Choix des projets
   - Appropriation du sujet / Lecture / Recherches
-  - Story Board (Pepper) ou Hello World (SAT)
+  - Concept/Archi (Escape Game) ou Hello World (SAT)
   - Premier commit **obligatoire** à pousser sur GitLab
 
-- 02/06 : [Rendu](#Rendus) intermédiaire sous forme de **[Tag](https://docs.gitlab.com/ee/user/project/repository/tags/)** avant 18h (sans vidéo ni powerpoint)
+- 07/06 : [Rendu](#Rendus) intermédiaire sous forme de **[Tag](https://docs.gitlab.com/ee/user/project/repository/tags/)** avant 18h (sans vidéo ni powerpoint)
 
-- 08/06 : Fin des commit sur GitLab à 23h59 (**fin des rendus**) et livraison sous forme de **Tag**
+- 13/06 : Fin des commit sur GitLab à 23h59 (**fin des rendus**) et livraison sous forme de **Tag**
 
-- 09/06 AM : [Soutenances](#Soutenances)
+- 14/06 AM : [Soutenances](#Soutenances)
 
 - 09/06 PM : Travail complémentaire si exigé par les profs :
   - Fin des commits sur GitLab à 23h59 (**fin des rendus**) et livraison sous forme de **Tag**
@@ -39,7 +39,7 @@
 
 # Soutenances : 
  
-- Vos soutenances auront lieu vendredi 9 Juin de **8h30 à 12h**. La présence de tous est obligatoire sur l’ensemble de ce créneau et l’ordre de passage sera tiré au sort ou laissé aux plus motivés. 
+- Vos soutenances auront lieu vendredi 14 Juin de **8h à 12h**. La présence de tous est obligatoire sur l’ensemble de ce créneau et l’ordre de passage sera tiré au sort ou laissé aux plus motivés. 
 
 - Chaque groupe aura une base de 6mn + 3mn par nombre d’étudiants dans le groupe. Un groupe de 3 par exemple parlera donc 15mn, et ce temps sera équi-réparti soit environ 5mn chacun.
 
