@@ -1,18 +1,18 @@
 # Déroulement du projet
 
-- 04/06 : 
+- 02/06 : 
   - Présentation / Négociation / Choix des projets
   - Appropriation du sujet / Lecture / Recherches
-  - Concept/Archi (Escape Game) ou Hello World (SAT)
+  - Premières recherches et Hello World
   - Premier commit **obligatoire** à pousser sur GitLab
 
-- 07/06 : [Rendu](#Rendus) intermédiaire sous forme de **[Tag](https://docs.gitlab.com/ee/user/project/repository/tags/)** avant 18h (sans vidéo ni powerpoint)
+- 06/06 : [Rendu](#Rendus) intermédiaire sous forme de **[Tag](https://docs.gitlab.com/ee/user/project/repository/tags/)** avant 11h (sans vidéo ni powerpoint)
 
-- 13/06 : Fin des commit sur GitLab à 23h59 (**fin des rendus**) et livraison sous forme de **Tag**
+- 12/06 : Fin des commit sur GitLab à 23h59 (**fin des rendus**) et livraison sous forme de **Tag**
 
-- 14/06 AM : [Soutenances](#Soutenances)
+- 13/06 AM : [Soutenances](#Soutenances)
 
-- 09/06 PM : Travail complémentaire si exigé par les profs :
+- 13/06 PM : Travail complémentaire si exigé par les profs :
   - Fin des commits sur GitLab à 23h59 (**fin des rendus**) et livraison sous forme de **Tag**
 
 
