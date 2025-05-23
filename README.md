@@ -22,7 +22,9 @@
 
 - **Projets** :
   - Rendu avec un Tag sous GitLab
-  - **README** : Chaque projet doit avoir un README.md adapté selon le [template fourni en snippet](https://gitlab.com/snippets/1917426)
+  - **README** : Chaque projet doit avoir un README.md avec des illustrations faites EXCUSIVEMENT :warning: avec soit :
+    - Plugin [Excalidraw de VSCode](https://github.com/excalidraw/excalidraw-vscode)
+    - [Mermaid](https://mermaid.js.org/intro/) directement dans le markdown
 
 - **Des vidéos**
   - Une vidéo de 30s à 1 min présentant le projet (pitch attractif)
@@ -39,9 +41,9 @@
 
 # Soutenances : 
  
-- Vos soutenances auront lieu vendredi 14 Juin de **8h à 12h**. La présence de tous est obligatoire sur l’ensemble de ce créneau et l’ordre de passage sera tiré au sort ou laissé aux plus motivés. 
+- Vos soutenances auront lieu vendredi 13 Juin de **8h à 12h**. La présence de tous est obligatoire sur l’ensemble de ce créneau et l’ordre de passage sera tiré au sort ou laissé aux plus motivés. 
 
-- Chaque groupe aura une base de 6mn + 3mn par nombre d’étudiants dans le groupe. Un groupe de 3 par exemple parlera donc 15mn, et ce temps sera équi-réparti soit environ 5mn chacun.
+- Chaque groupe aura une base de 6mn + 4mn par nombre d’étudiants dans le groupe. Un groupe de 3 par exemple parlera donc 18mn, et ce temps sera équi-réparti soit environ 5mn chacun.
 
 - Le sujet doit être présenté très rapidement pour passer ensuite à vos choix technologiques, avec les développements et problématiques associées. A la fin de la présentation, l’auditoire doit avoir une idée clair de ce qui fonctionne et ce qui ne fonctionne pas. Les problèmes rencontrés ne doivent pas monopoliser votre temps de parole.
 
