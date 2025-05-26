@@ -1,6 +1,6 @@
 # Déroulement du projet
 
-- 02/06 : 
+- 27/05 : 
   - Présentation / Négociation / Choix des projets
   - Appropriation du sujet / Lecture / Recherches
   - Premières recherches et Hello World
