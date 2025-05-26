@@ -26,7 +26,7 @@ Les critères technologiques à mettre en oeuvre sont les suivants :
 
 :warning: Les mouvements du bras devront d'abord être testés en simulation. Les mouvements du bras réel ne pourront être effectué que si une personne attentive a sa main au dessus de l'arrêt d'urgence
 
-## Ressources
+## Ressources
 - [UFACTORY Studio - Bras réel](https://studio.ufactory.cc/)
 - [UFACTORY Studio - Bras en simulation](https://forum.ufactory.cc/t/ufactory-studio-simulation/3719)
 - [SDK Python](https://github.com/xArm-Developer/xArm-Python-SDK)
