@@ -1,18 +1,18 @@
 # Déroulement du projet
 
-- 27/05 : 
+- 12/05 : 
   - Présentation / Négociation / Choix des projets
   - Appropriation du sujet / Lecture / Recherches
   - Premières recherches et Hello World
   - Premier commit **obligatoire** à pousser sur GitLab
 
-- 06/06 : [Rendu](#Rendus) intermédiaire sous forme de **[Tag](https://docs.gitlab.com/ee/user/project/repository/tags/)** avant 11h (sans vidéo ni powerpoint)
+- 21/05 : [Rendu](#Rendus) intermédiaire sous forme de **[Tag](https://docs.gitlab.com/ee/user/project/repository/tags/)** avant 11h (sans vidéo ni powerpoint)
 
-- 12/06 : Fin des commit sur GitLab à 23h59 (**fin des rendus**) et livraison sous forme de **Tag**
+- 29/05 11h-12h15 : [Soutenances](#Soutenances)
 
-- 13/06 AM : [Soutenances](#Soutenances)
+- 29/05 : Fin des commits sur GitLab à 13h (**fin des rendus**) et livraison sous forme de **Tag**
 
-- 13/06 PM : Travail complémentaire si exigé par les profs :
+- 1-5/06 PM : Travail complémentaire si exigé par les profs :
   - Fin des commits sur GitLab à 23h59 (**fin des rendus**) et livraison sous forme de **Tag**
 
 
@@ -80,7 +80,7 @@
 
 |N| Sujets                                                            | Nb groupes | Pers. par grp |   Salle  |  PC   |
 |-| ----------------------------------------------------------------- | ---------- | ------------- | -------- | ----- |
-|1| [Démo bras + LLM](sujets/Sujet%201%20-%20Demo%20bras.md)          |     1      |       2 à 4   | I102     |  TP   |
-|2| [Véhicule autonome](sujets/Sujet%202%20-%20Véhicule%20Autonome.md)|   1 ou 2   |       2 à 6   | I102     |  TP   |
+|1| [Démo bras + LLM](sujets/Sujet%201%20-%20Demo%20bras.md)          |  1 ou 2    |       2 à 4   | I102     |  TP   |
+|2| [Véhicule autonome](sujets/Sujet%202%20-%20Véhicule%20Autonome.md)|   1        |       2       | I102     |  TP   |
 
 
