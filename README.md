@@ -80,7 +80,7 @@
 
 |N| Sujets                                                            | Nb groupes | Pers. par grp |   Salle  |  PC   |
 |-| ----------------------------------------------------------------- | ---------- | ------------- | -------- | ----- |
-|1| [Démo bras + LLM](sujets/Sujet%201%20-%20Demo%20bras.md)          |  1 ou 2    |       2 à 4   | I102     |  TP   |
-|2| [Véhicule autonome](sujets/Sujet%202%20-%20Véhicule%20Autonome.md)|   1        |       2       | I102     |  TP   |
+|1| [Démo bras + LLM](sujets/Sujet%201%20-%20Demo%20bras.md)          |  1     |       2 à 4   | I102     |  TP   |
+|2| [Véhicule autonome](sujets/Sujet%202%20-%20Véhicule%20Autonome.md)|   1        |       2 à 4       | I102     |  TP   |
 
 
